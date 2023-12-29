@@ -35,4 +35,4 @@ LLM의 beam-search의 후보 문장안에 정답이 존재했던 확률이 20%�
 
 
 - 기존 Fine-Tuning 모델 보다 재정렬 했을 때 성능 향상
-- sLLM을 fine-tuning으로 LLM인 GPT-4의 성능 향상
+- sLLM을 fine-tuning으로 LLM인 GPT-4보다 좋은 성능
